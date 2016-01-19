@@ -1,0 +1,7 @@
+Mile stone for project 1
+For this project we will have to implement and compare the performance of shell sort and a sorting algorithm that we will make. I will start by going through the lecture slides of insertion sort and bubble sort. Once I am done going over the slides, I will go over the some video which actually show how these sorts work. Then I will try and figure out the memory complexities of the respective sort and compare them theoretically before actually writing any code. 
+I will then start by writing the first function i.e. Load_File , I will just open the file with a fopen and then malloc a chunck of memory for that data. After than I will use a for loop to collect data form each line.I will then fclose the file.
+In the save File function, I will do the same thing as I did in the LOAD function except instead of scaning the number I will print the numbers in the new file.
+ In the functions Shell_insertion_sort and Imporved_bubble_sort , I will first try to sort the data in ascending order without worrying about the performance aspect . I will then try and take seq1 for shell sort and seq2 for improved sort. Once I get the data I will try sorting them with respect to the given information in the readme for this project. 
+
+Once I am done with the code, I will try and determine the big O values of time and space complexities of the respective sorting algorithms. I will prepare my report and give the required information too.
